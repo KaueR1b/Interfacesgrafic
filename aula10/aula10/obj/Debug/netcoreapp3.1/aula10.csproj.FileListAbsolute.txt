@@ -1,0 +1,15 @@
+C:\Users\Kauê\source\repos\aula10\aula10\bin\Debug\netcoreapp3.1\aula10.exe
+C:\Users\Kauê\source\repos\aula10\aula10\bin\Debug\netcoreapp3.1\aula10.deps.json
+C:\Users\Kauê\source\repos\aula10\aula10\bin\Debug\netcoreapp3.1\aula10.runtimeconfig.json
+C:\Users\Kauê\source\repos\aula10\aula10\bin\Debug\netcoreapp3.1\aula10.runtimeconfig.dev.json
+C:\Users\Kauê\source\repos\aula10\aula10\bin\Debug\netcoreapp3.1\aula10.dll
+C:\Users\Kauê\source\repos\aula10\aula10\bin\Debug\netcoreapp3.1\aula10.pdb
+C:\Users\Kauê\source\repos\aula10\aula10\obj\Debug\netcoreapp3.1\aula10.csprojAssemblyReference.cache
+C:\Users\Kauê\source\repos\aula10\aula10\obj\Debug\netcoreapp3.1\aula10.Form1.resources
+C:\Users\Kauê\source\repos\aula10\aula10\obj\Debug\netcoreapp3.1\aula10.csproj.GenerateResource.cache
+C:\Users\Kauê\source\repos\aula10\aula10\obj\Debug\netcoreapp3.1\aula10.AssemblyInfoInputs.cache
+C:\Users\Kauê\source\repos\aula10\aula10\obj\Debug\netcoreapp3.1\aula10.AssemblyInfo.cs
+C:\Users\Kauê\source\repos\aula10\aula10\obj\Debug\netcoreapp3.1\aula10.csproj.CoreCompileInputs.cache
+C:\Users\Kauê\source\repos\aula10\aula10\obj\Debug\netcoreapp3.1\aula10.dll
+C:\Users\Kauê\source\repos\aula10\aula10\obj\Debug\netcoreapp3.1\aula10.pdb
+C:\Users\Kauê\source\repos\aula10\aula10\obj\Debug\netcoreapp3.1\aula10.genruntimeconfig.cache

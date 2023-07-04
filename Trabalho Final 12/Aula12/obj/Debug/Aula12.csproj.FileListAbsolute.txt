@@ -1,0 +1,20 @@
+C:\Users\ederm\OneDrive\Área de Trabalho\UNIFAAT Aulas C#\Aula12\Aula12\bin\Debug\Aula12.exe.config
+C:\Users\ederm\OneDrive\Área de Trabalho\UNIFAAT Aulas C#\Aula12\Aula12\bin\Debug\Aula12.exe
+C:\Users\ederm\OneDrive\Área de Trabalho\UNIFAAT Aulas C#\Aula12\Aula12\bin\Debug\Aula12.pdb
+C:\Users\ederm\OneDrive\Área de Trabalho\UNIFAAT Aulas C#\Aula12\Aula12\obj\Debug\Aula12.csproj.AssemblyReference.cache
+C:\Users\ederm\OneDrive\Área de Trabalho\UNIFAAT Aulas C#\Aula12\Aula12\obj\Debug\Aula12.Form1.resources
+C:\Users\ederm\OneDrive\Área de Trabalho\UNIFAAT Aulas C#\Aula12\Aula12\obj\Debug\Aula12.Properties.Resources.resources
+C:\Users\ederm\OneDrive\Área de Trabalho\UNIFAAT Aulas C#\Aula12\Aula12\obj\Debug\Aula12.csproj.GenerateResource.cache
+C:\Users\ederm\OneDrive\Área de Trabalho\UNIFAAT Aulas C#\Aula12\Aula12\obj\Debug\Aula12.csproj.CoreCompileInputs.cache
+C:\Users\ederm\OneDrive\Área de Trabalho\UNIFAAT Aulas C#\Aula12\Aula12\obj\Debug\Aula12.exe
+C:\Users\ederm\OneDrive\Área de Trabalho\UNIFAAT Aulas C#\Aula12\Aula12\obj\Debug\Aula12.pdb
+C:\Users\Luiz Fernando\Desktop\Estudos\Ederzinho\Aula12\Aula12\bin\Debug\Aula12.exe.config
+C:\Users\Luiz Fernando\Desktop\Estudos\Ederzinho\Aula12\Aula12\bin\Debug\Aula12.exe
+C:\Users\Luiz Fernando\Desktop\Estudos\Ederzinho\Aula12\Aula12\bin\Debug\Aula12.pdb
+C:\Users\Luiz Fernando\Desktop\Estudos\Ederzinho\Aula12\Aula12\obj\Debug\Aula12.csproj.AssemblyReference.cache
+C:\Users\Luiz Fernando\Desktop\Estudos\Ederzinho\Aula12\Aula12\obj\Debug\Aula12.Form1.resources
+C:\Users\Luiz Fernando\Desktop\Estudos\Ederzinho\Aula12\Aula12\obj\Debug\Aula12.Properties.Resources.resources
+C:\Users\Luiz Fernando\Desktop\Estudos\Ederzinho\Aula12\Aula12\obj\Debug\Aula12.csproj.GenerateResource.cache
+C:\Users\Luiz Fernando\Desktop\Estudos\Ederzinho\Aula12\Aula12\obj\Debug\Aula12.csproj.CoreCompileInputs.cache
+C:\Users\Luiz Fernando\Desktop\Estudos\Ederzinho\Aula12\Aula12\obj\Debug\Aula12.exe
+C:\Users\Luiz Fernando\Desktop\Estudos\Ederzinho\Aula12\Aula12\obj\Debug\Aula12.pdb

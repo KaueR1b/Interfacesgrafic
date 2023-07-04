@@ -1,0 +1,6 @@
+C:\Users\Kauê\Desktop\Katia2SM\AV_3220023\prova\obj\Debug\netcoreapp3.1\prova.csprojAssemblyReference.cache
+C:\Users\Kauê\Desktop\Katia2SM\AV_3220023\prova\obj\Debug\netcoreapp3.1\prova.telaonibus.resources
+C:\Users\Kauê\Desktop\Katia2SM\AV_3220023\prova\obj\Debug\netcoreapp3.1\prova.csproj.GenerateResource.cache
+C:\Users\Kauê\Desktop\Katia2SM\AV_3220023\prova\obj\Debug\netcoreapp3.1\prova.AssemblyInfoInputs.cache
+C:\Users\Kauê\Desktop\Katia2SM\AV_3220023\prova\obj\Debug\netcoreapp3.1\prova.AssemblyInfo.cs
+C:\Users\Kauê\Desktop\Katia2SM\AV_3220023\prova\obj\Debug\netcoreapp3.1\prova.csproj.CoreCompileInputs.cache

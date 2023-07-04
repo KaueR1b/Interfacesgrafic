@@ -1,0 +1,6 @@
+C:\Users\Kauê\Desktop\Katia2SM\AV3220023\AV3220023\obj\Debug\netcoreapp3.1\AV3220023.csprojAssemblyReference.cache
+C:\Users\Kauê\Desktop\Katia2SM\AV3220023\AV3220023\obj\Debug\netcoreapp3.1\AV3220023.Form1.resources
+C:\Users\Kauê\Desktop\Katia2SM\AV3220023\AV3220023\obj\Debug\netcoreapp3.1\AV3220023.csproj.GenerateResource.cache
+C:\Users\Kauê\Desktop\Katia2SM\AV3220023\AV3220023\obj\Debug\netcoreapp3.1\AV3220023.AssemblyInfoInputs.cache
+C:\Users\Kauê\Desktop\Katia2SM\AV3220023\AV3220023\obj\Debug\netcoreapp3.1\AV3220023.AssemblyInfo.cs
+C:\Users\Kauê\Desktop\Katia2SM\AV3220023\AV3220023\obj\Debug\netcoreapp3.1\AV3220023.csproj.CoreCompileInputs.cache
